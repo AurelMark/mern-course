@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoURL": "mongodb+srv://aurelmark:aurel556@cluster0.2ejzu.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "aurelmark mern started project",
+    "baseURL": "http://localhost:5000"
+}
